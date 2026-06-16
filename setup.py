@@ -23,5 +23,4 @@ author='Vamshi Ryakam',
 author_email='vamshiryakam728@gmail.com',
 packages=find_packages(),
 install_requires=get_requirements('requirements.txt')
-
 )
